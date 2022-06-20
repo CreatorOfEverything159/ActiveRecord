@@ -1,0 +1,6 @@
+{
+    "require": {
+        "twig/twig": "3.x",
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
